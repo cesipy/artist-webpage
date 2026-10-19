@@ -164,7 +164,7 @@ a:focus-visible {
 
 .draft-link,
 .site-nav a,
-.site-footer a:last-child {
+.site-footer > a:not(.wordmark) {
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.09em;
