@@ -91,7 +91,7 @@ h2 em { font-weight: 400; }
 .card-art { position: absolute; z-index: -2; inset: 0; overflow: hidden; }
 .card-art img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.01); transition: transform .8s ease; }
 .instrument-card:hover img { transform: scale(1.06); }
-.card-art-piano img { object-position: 51% 37%; }
+.card-art-piano img { object-position: 35% 50%; }
 .card-art-bassoon img { object-position: 50% 43%; }
 .card-content { padding: clamp(32px, 4vw, 62px); }
 .card-number { display: block; padding-bottom: 18px; border-bottom: 1px solid rgba(255,255,255,.4); color: #e6c6b9; font-size: 11px; font-weight: 700; letter-spacing: .16em; }
@@ -198,7 +198,7 @@ h2 em { font-weight: 400; }
   .intro-body .lead { font-size: 28px; }
   .instrument-grid { grid-template-columns: 1fr; }
   .instrument-card { min-height: 490px; }
-  .card-art-piano img { object-position: 50% 28%; }
+  .card-art-piano img { object-position: 35% 50%; }
   .timeline-item { grid-template-columns: 47px 1fr 18px; gap: 13px; }
   .timeline h3 { font-size: 30px; }
   .contact { min-height: 565px; padding-top: 90px; }
