@@ -18,5 +18,9 @@ There is no build step or dependency installation. Keep `index.html`, `styles.cs
 - [Bayerische Staatsoper biography](https://www.staatsoper.de/biographien/heilmaier-cosima)
 - [Live Music Now München profile](https://livemusicnow-muenchen.de/stipendiat/heilmaier-cosima/)
 - [HMTM scholarship announcement](https://hmtm.de/cosima-heilmaier-wird-stipendiatin-der-studienstiftung-des-deutschen-volkes/)
+- [Internationaler Musikwettbewerb der ARD 2026](https://www.ard-musikwettbewerb.de/) — lists Cosima Maria Heilmaier in the second round for bassoon.
+- [Wiener Klassik 2026 results, Category 4](https://www.viennapiano.at/_files/ugd/1e3f94_ae47a9c7ab6e46a2a21dee427298e2e5.pdf) — Cosima topped the category with 88.8 points.
+- [Wiener Klassik 2026 rules](https://www.viennapiano.at/_files/ugd/1e3f94_0dfc7408922f470ca789f07c686816c9.pdf) — first prize required more than 90 points; second prize required more than 80.
+- [Musikverein Wien winners’ concert](https://musikverein.at/en/konzert/international-vienna-piano-competition-2026-wiener-klassik-00112cc9/) — lists Cosima among the performers on 20 July 2026.
 
 The HMTM portrait is credited to Foto Zeiler Erding; HMTM notes that its background was AI-extended. The piano portrait comes from the Bayerische Staatsoper biography, where no photographer is listed. These images are used only for this informal concept. Confirm photo usage, credits, biography, and contact information with Cosima before making a public official website.
